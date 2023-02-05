@@ -1,0 +1,2 @@
+This is the Deep Learning model which converts real-time sign language action to text. We have trained this model using a self-generated dataset of 160k images which is of 16 actions. The accuracy of the model is more than 90%. Horizontal distance matters during the prediction of the model.
+To run this model open a file named "finam_notebook" and run it. Remember, you have to skip the cells which contain the code for data collection. 
